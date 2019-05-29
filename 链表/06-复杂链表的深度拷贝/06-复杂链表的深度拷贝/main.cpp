@@ -10,7 +10,6 @@
 #include <map>
 #include <vector>
 using namespace std;
-
 struct RandomListNode {
     int label;
     RandomListNode *next, *random;
